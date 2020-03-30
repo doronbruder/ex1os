@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/project1.dir/osm.cpp.o  -o project1 
